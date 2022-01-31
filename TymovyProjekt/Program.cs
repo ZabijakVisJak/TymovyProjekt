@@ -10,6 +10,9 @@ namespace TymovyProjekt
     {
         static void Main(string[] args)
         {
+            Hul_skero hul = new Hul_skero();
+            hul.Nazev = "black mamba";
+            hul.Tah = "fest";
         }
     }
 }
