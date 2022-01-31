@@ -10,6 +10,9 @@ namespace TymovyProjekt
     {
         static void Main(string[] args)
         {
+            placek placek = new placek();
+            placek.Jmeno = "David";
+            placek.Prijmeni = "Plaček";
         }
     }
 }
